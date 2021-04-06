@@ -1,5 +1,5 @@
 # Imgur Image Scraper (Python)
-A simple image scraper that downloads every image or can write the download link to a .txt file from https://imgur.com/ base on the user's search. The images scraped are perfect for a discord profile picture or they can be utlised within other projects.
+A simple image scraper that can download and/or write the download link to a .txt file. Based on the user's search all images are scraped from https://imgur.com/. The images scraped are perfect for a discord profile picture or they can be utlised within other projects.
 ## Project Setup
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [requests](https://pypi.org/project/requests/) and [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 ```bash
